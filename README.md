@@ -3,7 +3,7 @@
 <h3 align="center">I'm a junior mobile Developer.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me:
 
 - 🔭 I’m currently working as a **Freelancer Flutter Developer.**
 
@@ -45,7 +45,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Stats:
 
   <br/>
     <a href="https://github.com/A7medShalaby/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=A7medShalaby&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -62,7 +62,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## 🔗 Connect with me:
 <p align="left">
 
 
@@ -75,9 +75,10 @@
 <a href = "https://ar.quora.com/profile/Ahmed-Shalaby-11?ch=10&oid=1505294296&share=77e4d0bf&srid=uUrrjd&target_type=user"><img src="https://img.icons8.com/ios/50/fa314a/quora.png" width="50" height="50" ></a>
 <a href = "https://twitter.com/A7medGShalaby"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="50" height="50" /></a>
 <img src="https://img.icons8.com/doodle/48/fa314a/discord-logo.png" width="50" height="50" /></a>
+<img src="https://img.icons8.com/color/48/000000/signal-app.png" width="50" height="50" /></a>
 </p>
 
-## ❤ Views and Followers
+## ❤ Views and Followers:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=A7medShalaby">
 </a>
