@@ -1,11 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed</h1>
-<h3 align="center">I'm a junior mobile Developer.</h3>
+<h3 align="center">I'm a mobile Developer.</h3>
 
 
 ## 🙋‍♂️ About Me:
-
-- 🔭 I’m currently working as a **Freelancer Flutter Developer.**
 
 - 🌱 I’m currently learning **Advanced Flutter & Design Patterns.**
 
