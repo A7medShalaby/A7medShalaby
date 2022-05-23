@@ -33,6 +33,8 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="visualStudio" width="50" height="50"/> </a> 
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/intellij-idea.png" alt="intelliJ" width="50" height="50"/> </a> 
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="androidstudio" width="50" height="50"/> </a> 
+    <a href="[https://www.jetbrains.com/idea/](https://www.adobe.com/mena_en/products/xd.html)" target="_blank"> <img src="https://img.icons8.com/color/344/adobe-xd--v1.png" alt="Xd" width="50" height="50"/> </a> 
+    <a href="[https://developer.android.com/studio](https://www.adobe.com/mena_en/products/premiere.html?skwcid=AL!3085!3!340874576852!e!!g!!premiere%20video%20editing&mv=search&sdid=LQLZT7BT&ef_id=CjwKCAjw4ayUBhA4EiwATWyBrsPadPYwRV-l1nkefhPtQz11Tgji5SUa-E_U2EIr5GnzzWHP7kLqNhoCukwQAvD_BwE:G:s&s_kwcid=AL!3085!3!340874576852!e!!g!!premiere%20video%20editing!1463978787!57154896872&gclid=CjwKCAjw4ayUBhA4EiwATWyBrsPadPYwRV-l1nkefhPtQz11Tgji5SUa-E_U2EIr5GnzzWHP7kLqNhoCukwQAvD_BwE)" target="_blank"> <img src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png" alt="Pr" width="50" height="50"/> </a>
 
 </p>
 
